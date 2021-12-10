@@ -5,7 +5,7 @@ import SuperCheckbox from "./c3-SuperCheckbox/SuperCheckbox";
 
 export function SuperComponents() {
     return (
-        <div>
+        <div style={{display: 'flex'}}>
             <SuperInputText/>
             <SuperButton/>
             <SuperCheckbox/>
