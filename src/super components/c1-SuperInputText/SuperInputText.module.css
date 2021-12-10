@@ -1,0 +1,34 @@
+.input {
+    font-size: 16px;
+    padding: 10px;
+    display: block;
+    width: 300px;
+    border: none;
+    border-bottom: 1px solid #ccc;
+}
+
+.input:focus {
+    outline: none;
+    border: cadetblue 1px solid;
+}
+
+.superInput {
+    font-size: 16px;
+    padding: 10px;
+    display: block;
+    width: 300px;
+    border: none;
+    border-bottom: 1px solid #ccc;
+}
+
+.errorInput {
+    color: black;
+    margin: 15px;
+    border: 3px solid red;
+    background: burlywood;
+}
+
+.error {
+    color: blue;
+    height: 20px;
+}
